@@ -2,14 +2,14 @@
 
 one:
   meal_type: MyString
-  calores: 1
+  calories: 1
   proteins: 1
   carbohydrates: 1
   fats: 1
 
 two:
   meal_type: MyString
-  calores: 1
+  calories: 1
   proteins: 1
   carbohydrates: 1
   fats: 1
